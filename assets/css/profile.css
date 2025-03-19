@@ -1,0 +1,19 @@
+/* Responsive design */
+@media (max-width: 768px) {
+  .profile-info {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .profile-details {
+    width: 100%;
+  }
+  
+  .profile-container {
+    padding: 24px;
+  }
+  
+  .save-button {
+    width: 100%;
+  }
+}
